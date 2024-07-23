@@ -16,11 +16,5 @@ Feel free to reach out if you want to discuss any projects, share ideas, or just
 - 📧 Email: [zohaib.codemaster@gmail.com](mailto:zohaib.codemaster@gmail.com)
 - 💼 LinkedIn: [Zohaib Musharaf](https://www.linkedin.com/in/zohaib-musharaf-ba5663313/)
 
-
-## 🔍 What I’m Currently Working On
-
-- **Internship Applications:** Actively applying for internships to gain real-world experience and further enhance my skills.
-- **New Projects:** Exploring new project ideas and technologies to expand my knowledge and expertise.
-
 Thank you for visiting my GitHub profile! 🙌
 
