@@ -4,8 +4,8 @@ Hello! I'm Zohaib Musharaf, a passionate and dedicated Computer Science student 
 
 ## 🔧 Technologies & Skills
 
-- **Programming Languages:** C++, JavaScript(Along with Node.js), Python
-- **Frameworks/Libraries:** React,  Express.js 
+- **Programming Languages:** JavaScript, Ruby, Python, C++
+- **Frameworks/Libraries:** React.js, Ruby on Rails, Express.js, Vue.js, 
 - **Databases:** MongoDB, Microsoft SQL
 
 
